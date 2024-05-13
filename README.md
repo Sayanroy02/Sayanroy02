@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @Sayanroy02<br>👀 I’m interested in Machine Learning and AI<br>🌱 I’m currently learning web scrapping<br>💞️ I’m looking to collaborate on a ML project<br>📫 How to reach me ? mail me at -> srgcreations4@gmail.com</p>
+<p align="left">👋 Hi, I’m @Sayanroy02<br>👀 I’m interested in Machine Learning and AI<br>🌱 I’m currently learning web scrapping<br>📫 How to reach me ?  📧 srgcreations4@gmail.com</p>
 
 ###
 
@@ -68,18 +68,18 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sayanroy02 &locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sayanroy02 &locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Sayan's streak graph"  />
 </div>
 
 <p align="center">
   <a href="https://github.com/Sayanroy02">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayanroy02&theme=radical" alt="Sayan's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayanroy02&theme=dark&hide" alt="Sayan's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Sayanroy02"><img alt="Sayan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sayanroy02&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Sayanroy02"><img alt="Sayan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sayanroy02&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Sayanroy02"><img alt="Sayan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sayanroy02&show_icons=true&count_private=true&theme=dark&hide_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Sayanroy02"><img alt="Sayan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sayanroy02&langs_count=8&layout=compact&theme=dark&hide_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
