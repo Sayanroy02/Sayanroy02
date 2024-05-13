@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">Myself Sayan , a application developer</h3>
+<h3 align="left">Myself Sayan , an Application developer</h3>
 
 ###
 
