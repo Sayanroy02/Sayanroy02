@@ -78,10 +78,13 @@
 </p>
 
 <a> 
-    <a href="https://github.com/Sayanroy02"><img alt="Sayan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sayanroy02&show_icons=true&count_private=true&theme=dark&hide_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Sayanroy02"><img alt="Sayan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sayanroy02&langs_count=8&layout=compact&theme=dark&hide_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+   <p align="center"> <a href="https://github.com/Sayanroy02"><img alt="Sayan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sayanroy02&show_icons=true&count_private=true&theme=dark&hide_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+</p>
+
+  <p align="center"><a href="https://github.com/Sayanroy02"><img alt="Sayan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sayanroy02&langs_count=8&layout=compact&theme=dark&hide_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
+</p>
 
 
 ###
