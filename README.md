@@ -15,9 +15,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sayanroy02 .Sayanroy02 &"  />
-</div>
+
 
 ###
 
