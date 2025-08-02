@@ -35,16 +35,17 @@
 const sayan = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    currentFocus: "AI & Machine Learning",
-    learning: ["Web Scraping", "Deep Learning", "Cloud Computing"],
+    currentFocus: "Full-Stack Development & AI",
+    learning: ["Data Science", "Machine Learning", "Web Scraping", "AI Fundamentals"],
+    currentLevel: "Beginner in DS/ML/AI 🌱",
     funFact: "I debug with console.log and I'm not ashamed! 😄",
-    askMeAbout: ["Flutter", "Python", "AI/ML", "Mobile Development"],
+    askMeAbout: ["Flutter", "React", "Python", "Mobile Development"],
     technologies: {
         mobile: ["Flutter", "Dart"],
+        frontend: ["React", "HTML5", "CSS3", "JavaScript", "TailwindCSS"],
         backend: ["Node.js", "Express.js", "Python"],
         database: ["MongoDB", "Firebase"],
-        frontend: ["HTML5", "CSS3", "JavaScript", "TailwindCSS"],
-        ai_ml: ["Python", "TensorFlow", "Scikit-learn"],
+        ai_ml_beginner: ["Python", "Pandas", "NumPy", "Matplotlib", "Jupyter Notebook"],
         tools: ["Git", "VS Code", "Postman", "Figma"]
     }
 };
@@ -65,12 +66,19 @@ const sayan = {
 
 ### 🌐 Web Development  
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs,express,tailwind" />
 </div>
 
-### 🤖 AI/ML & Backend
+### 🤖 Data Science & AI (Learning)
 <div>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,mongodb,java" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy"/>
+</div>
+
+### 💾 Database & Backend
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,java" />
 </div>
 
 ### 🛠️ Tools & Technologies
@@ -108,7 +116,10 @@ const sayan = {
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://your-blog-link.com)
 
 ### 💡 Open for collaborations on:
-🚀 **Mobile App Development** • 🤖 **AI/ML Projects** • 🌐 **Web Applications** • 📊 **Data Science**
+🚀 **Mobile App Development** • ⚛️ **React Applications** • 📊 **Beginner DS/ML Projects** • 🌐 **Web Development**
+
+### 🌱 Currently Learning:
+📚 **Data Science Fundamentals** • 🤖 **Machine Learning Basics** • 🔍 **Web Scraping** • 📈 **Data Visualization**
 
 </div>
 
