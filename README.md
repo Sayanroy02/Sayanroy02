@@ -113,7 +113,7 @@ const sayan = {
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://your-resume-link.com)
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)]([https://your-blog-link.com](https://mega-blog-nine-nu.vercel.app))
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)]([https://mega-blog-nine-nu.vercel.app/])
 
 ### 💡 Open for collaborations on:
 🚀 **Mobile App Development** • ⚛️ **React Applications** • 📊 **Beginner DS/ML Projects** • 🌐 **Web Development**
