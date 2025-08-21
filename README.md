@@ -29,7 +29,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
-<img align="center" alt="Coding" width="100%" height="100px" src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif">
+<img align="center" alt="Coding" width="100%" height="500px" src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif">
 
 ```typescript
 const sayan = {
